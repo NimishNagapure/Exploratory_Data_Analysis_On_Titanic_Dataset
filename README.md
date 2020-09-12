@@ -1,4 +1,4 @@
-# Exploratory_Data_Analysis_On_Titanic_dataset
+# Exploratory_Data_Analysis_On_Titanic_Dataset
 
 
 ## Logistic Regression with Python
